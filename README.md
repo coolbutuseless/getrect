@@ -8,8 +8,8 @@
 ![](https://img.shields.io/badge/cool-useless-green.svg)
 <!-- badges: end -->
 
-`{getrect}` is a solution to the problem of partitioning a matrix of
-values into
+`{getrect}` is a solution to the problem of partitioning a matrix into
+rectangular regions - each region only enclosing a single unique value.
 
 ## What’s in the box
 
